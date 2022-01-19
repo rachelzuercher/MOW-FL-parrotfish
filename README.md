@@ -20,16 +20,11 @@ Parrotfishes are a functionally critical component of Caribbean reef fish assemb
 
 --- 
 ## In the repository:
-Four .csv files and one .R script are needed to replicate these analyses.
+One .csv files and one .R script are needed to replicate these analyses.
 
-`RVC_impact.csv` -- data file containing each Reef Visual Census survey site used in the fishing impact model (rows), the snapper-grouper biomass for each site (column), and all explanatory variables considered for the fishing impact model (columns)
+`RVC_parrotfish_2012-2018.csv` -- data file containing each Reef Visual Census survey site used in the parrotfish presence/absence and biomass models, a column for the presence or absence (0 or 1) of each of four species: Midnight, Blue, Rainbow and Stoplight Parrotfishes, a column for the biomass of each of the four focal species (g/m2), and a column for each explanatory variable considered in the models
 
-`ReefPoints_impact.csv` -- data file contained every 1 ha reef pixel included in the project (rows) and all significant corresponding explanatory variables for the fishing impact model
 
-`RVC_biomass.csv` -- data file containing each Reef Visual Census survey site used in the fish biomass models (rows), biomass of all species groups (columns), and all explanatory variables considered for the biomass models, including fishing impact estimated by this project and extrapolated to these sites in ArcGIS (columns)
+`MOW_parrotfish_2.2022.R` script -- runs all analyses and creates plots for Zuercher et al. "Factors influencing the biomass of large-bodied parrotfishes..."
 
-`ReefPoints_biomass.csv` -- data file contained every 1 ha reef pixel included in the project (rows) and all significant corresponding explanatory variables for the biomass models
-
-`MOW_FL_3.2021.R` script -- runs all analyses and creates plots for Zuercher et al. 2021
-
-The analyses can be replicated by changing the working directory in `MOW_FL_3.2021.R` to the location on your computer where you have stored the .R and .csv files. Additional analyses for this project were conducted in ArcGIS Pro. Spatial data layers are housed privately, but can be requested for the purpose of replication or for additional research. Questions about the code and requests for spatial data layers should be directed to Rachel Zuercher (rachel.zuercher@gmail.com).
+The analyses can be replicated by changing the working directory in `MOW_parrotfish_2.2022.R` to the location on your computer where you have stored the .R and .csv files. Spatial data layers used for this research are housed privately, but can be requested for the purpose of replication or for additional research. Questions about the code and requests for spatial data layers should be directed to Rachel Zuercher (rachel.zuercher@gmail.com).
