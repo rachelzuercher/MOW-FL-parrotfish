@@ -6,9 +6,9 @@ Zuercher, R., D. Kochan, A. Harborne. Factors influencing the biomass of large-b
 
 ---
 ## Collaborators:
-Alastair Harborne, Tropical Fish Ecology Lab at Florida International University (FIU)
-Rachel Zuercher, Tropical Fish Ecology Lab at FIU + University of Rhode Island (URI) Coastal Resources Center
-David Kochan, Tropical Fish Ecology Lab at FIU + Florida Fish and Wildlife Conservation Commission   
+*Alastair Harborne, Tropical Fish Ecology Lab at Florida International University (FIU)*
+*Rachel Zuercher, Tropical Fish Ecology Lab at FIU + University of Rhode Island (URI) Coastal Resources Center*
+*David Kochan, Tropical Fish Ecology Lab at FIU + Florida Fish and Wildlife Conservation Commission*   
 
 **Contacts**: rachel.zuercher@gmail.com; aharborne@fiu.edu
 
