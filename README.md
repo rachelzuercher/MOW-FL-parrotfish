@@ -25,6 +25,6 @@ One .csv files and one .R script are needed to replicate these analyses.
 `RVC_parrotfish_2012-2018.csv` -- data file containing each Reef Visual Census survey site used in the parrotfish presence/absence and biomass models, a column for the presence or absence (0 or 1) of each of four species: Midnight, Blue, Rainbow and Stoplight Parrotfishes, a column for the biomass of each of the four focal species (g/m2), and a column for each explanatory variable considered in the models
 
 
-`MOW_parrotfish_2.2022.R` script -- runs all analyses and creates plots for Zuercher et al. "Factors influencing the biomass of large-bodied parrotfishes..."
+`MOW_parrotfish_4.2022.R` script -- runs all analyses and creates plots for Zuercher et al. "Factors influencing the biomass of large-bodied parrotfishes..."
 
-The analyses can be replicated by changing the working directory in `MOW_parrotfish_2.2022.R` to the location on your computer where you have stored the .R and .csv files. Spatial data layers used for this research are housed privately, but can be requested for the purpose of replication or for additional research. Questions about the code and requests for spatial data layers should be directed to Rachel Zuercher (rachel.zuercher@gmail.com).
+The analyses can be replicated by changing the working directory in `MOW_parrotfish_4.2022.R` to the location on your computer where you have stored the .R and .csv files. Spatial data layers used for this research are housed privately, but can be requested for the purpose of replication or for additional research. Questions about the code and requests for spatial data layers should be directed to Rachel Zuercher (rachel.zuercher@gmail.com).
