@@ -2,7 +2,7 @@
 
 This repository includes data and analysis scripts for the following article:
 
-Zuercher, R., D. Kochan, A. Harborne. Factors influencing the biomass of large-bodies parrotfishes in the absence of fishing on coral reefs in Florida, USA. *Submitted to Coral Reefs*
+Zuercher, R., Kochan, D., & Harborne,A. R. (2023). Factors influencing the biomass of large-bodiedparrotfish species in the absence of fishing on coral reefs inFlorida, USA.Journal of Fish Biology,1–12.https://doi.org/10.1111/jfb.15557
 
 ---
 ## Collaborators:
@@ -16,7 +16,7 @@ Zuercher, R., D. Kochan, A. Harborne. Factors influencing the biomass of large-b
 
 ---
 ## Description:
-Parrotfishes are a functionally critical component of Caribbean reef fish assemblages, with large-bodied parrotfish species exerting particularly important top-down control on macroalgae. Despite their importance, low biomasses of large-bodied parrotfishes on many reefs hampers our ability to study and understand their ecology. Florida reefs, where most parrotfish fishing has been illegal since 1992, present a unique opportunity to quantify the variables influencing their distribution. Using boosted regression tree models and 23 covariates, we identify the major predictors of four species of Atlantic large-bodied parrotfishes. Positive relationships between parrotfish presence and reef complexity, the area of surrounding reef, and availability of seagrass habitat identify these as key variables for the ecology of large-bodied parrotfishes. Strong positive relationships between parrotfish presence and biomass and the biomass of other parrotfishes on a reef suggest little interspecies competition and that all four species are responding to a similar subset of drivers. However, relationships between parrotfish presence and biomass and depth, habitat type, coral cover and the proximity of a reef to deep water habitats differed among species, highlighting some distinct habitat preferences among the large-bodied parrotfishes. These results improve our ability to target important biophysical drivers of large-bodied parrotfishes with appropriate management interventions.
+Parrotfishes are a functionally critical component of Caribbean reef fish assemblages,with large-bodied parrotfish species exerting particularly important top-down controlon macroalgae. Despite their importance, low biomasses of large-bodied parrotfisheson many reefs hamper our ability to study and understand their ecology. Floridareefs, where most parrotfish fishing has been illegal since 1992, present a uniqueopportunity to explore covariates of their distribution. Using boosted regression treemodels and 23 covariates, this study identified the major predictors of four speciesof Atlantic large-bodied parrotfishes. Maximum hard substrate relief, the area of thesurrounding reef, and the availability of seagrass habitat were each positively relatedto parrotfish presence. Strong positive relationships between parrotfish presence andbiomass and the biomass of other parrotfishes on a reef suggest that all four speciesresponded to a similar subset of environmental conditions. However, relationshipsbetween parrotfish presence and biomass and depth, habitat type, coral cover, andthe proximity of a reef to deepwater habitats differed among species, highlightingdistinct habitat preferences. These results can improve managers’ability to targetimportant biophysical correlates of large-bodied parrotfishes with appropriate man-agement interventions and identify areas for protection.
 
 --- 
 ## In the repository:
